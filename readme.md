@@ -58,7 +58,7 @@
 - Rétrospective du sprint #2
 - Planification du sprint #3
 
-### sprint #3 - cours 14 (10 points)
+### sprint #3 - cours 15 (10 points)
 
 - Suivi du sprint #3 - Pull request et issue
 
