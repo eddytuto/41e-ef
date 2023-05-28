@@ -50,15 +50,16 @@
 - Revue du sprint #1
 - Rétrospective du sprint #1
 - Planification du sprint #2
-- suivi du sprint #2 - Pull request et issue
+- Suivi du sprint #2 - Pull request et issue
 
-### sprint #2 - cours 13 (15 points)
+### sprint #2 - cours 14 (15 points)
 
 - revue du sprint #2
 - Rétrospective du sprint #2
 - Planification du sprint #3
+- Suivi du sprint #2 - Pull request et issue
 
-### sprint #3 - cours 14 (10 points)
+### sprint #3 - cours 15 (10 points)
 
 - Suivi du sprint #3 - Pull request et issue
 
